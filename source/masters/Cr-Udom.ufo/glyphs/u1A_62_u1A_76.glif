@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u1A62_u1A76" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="28" y="690" type="line" smooth="yes"/>
+      <point x="28" y="696" type="line" smooth="yes"/>
+      <point x="-266" y="550" type="line" smooth="yes"/>
+      <point x="-302" y="567" type="line" smooth="yes"/>
+      <point x="-266" y="508" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="29" y="604" type="line" smooth="yes"/>
+      <point x="29" y="610" type="line" smooth="yes"/>
+      <point x="-265" y="464" type="line" smooth="yes"/>
+      <point x="-284" y="453" type="line" smooth="yes"/>
+      <point x="-265" y="422" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-270" y="648" type="move" name="UD"/>
+    </contour>
+    <contour>
+      <point x="-263" y="418" type="move" name="_U"/>
+    </contour>
+    <contour>
+      <point x="-263" y="418" type="move" name="_UD"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u1A62.large" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-16" y="772" type="line" smooth="yes"/>
+      <point x="-16" y="781" type="line" smooth="yes"/>
+      <point x="-401" y="582" type="line" smooth="yes"/>
+      <point x="-380" y="552" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

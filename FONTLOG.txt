@@ -1,0 +1,27 @@
+-----
+FONTLOG for the CR fonts
+
+This file provides detailed information on the CR Font Software. This information should be distributed along with the CR fonts and any derivative works.
+
+Basic Font Information
+
+CR is a Unicode typeface family that supports Tai Tham in the Lanna style. The family contains the following fonts:
+
+Cr-Udom - Latin from Lato-Regular
+
+ChangeLog
+
+27 January 2018 (Martin Hosken) Cr-Udom font released at version 0.5
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Charin Jamjitt
+D: Designer
+
+N: Martin Hosken
+E: martin_hosken@sil.org
+D: Font Engineer - Graphite and build
+
+-----
