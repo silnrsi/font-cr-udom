@@ -1,0 +1,5 @@
+#!/bin/sh
+# script to convert .ufo to .glyphs file for GUI editing
+
+echo "Generating glyphs file from current designspace and UFOs"
+psfufo2glyphs source/Cr-Udom.designspace source/Cr-Udom.glyphs -l source/logs/Cr-Udom_psfufo2glyphs.log
