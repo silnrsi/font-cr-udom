@@ -1,5 +1,11 @@
-Copyright (c) 2019, Charintr Jamjitt,
+Copyright (c) 2000-2007, Charintr Jamjitt,
 with Reserved Font Name "Udom".
+
+Copyright (c) 2010-2015, Łukasz Dziedzic (dziedzic@typoland.com),
+with Reserved Font Name Lato.
+
+Copyright (c) 2019, SIL International (www.sil.org)
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
