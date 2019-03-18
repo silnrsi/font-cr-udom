@@ -7,7 +7,13 @@
   <key>capHeight</key>
   <integer>590</integer>
   <key>copyright</key>
-  <string>Created By Charintr Jamjitt 20-9-2000 Modify 27-1-007</string>
+  <string>Copyright (c) 2000-2007, Charintr Jamjitt,
+with Reserved Font Name "Udom".
+
+Copyright (c) 2010-2015, Łukasz Dziedzic (dziedzic@typoland.com),
+with Reserved Font Name Lato.
+
+Copyright (c) 2019, SIL International (www.sil.org)</string>
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
@@ -15,7 +21,7 @@
   <key>note</key>
   <string>2014-8-22: Created with FontForge (http://fontforge.org)</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/03/13 10:27:35</string>
+  <string>2019/03/16 13:51:54</string>
   <key>openTypeHheaAscender</key>
   <integer>800</integer>
   <key>openTypeHheaDescender</key>
@@ -29,8 +35,13 @@
   <key>openTypeNameDesignerURL</key>
   <string>None</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2016, Charintr Jamjitt,
-with Reserved Font Names "Udom", "Cr-Udom".
+  <string>Copyright (c) 2000-2007, Charintr Jamjitt,
+with Reserved Font Name "Udom".
+
+Copyright (c) 2010-2015, Łukasz Dziedzic (dziedzic@typoland.com),
+with Reserved Font Name Lato.
+
+Copyright (c) 2019, SIL International (www.sil.org)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -132,11 +143,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Cr-Udom</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Udom</string>
+  <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Cr-Udom Udom: 2019</string>
+  <string>SIL International: Cr-Udom Regular: 2019</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000</string>
+  <string>Version 0.005</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -202,7 +213,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeOS2WinDescent</key>
   <integer>200</integer>
   <key>postscriptFontName</key>
-  <string>Cr-Udom-Udom</string>
+  <string>Cr-Udom-Regular</string>
   <key>postscriptFullName</key>
   <string>Cr-Udom</string>
   <key>postscriptUnderlinePosition</key>
@@ -216,13 +227,13 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Udom</string>
+  <string>Regular</string>
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
-  <integer>1</integer>
-  <key>versionMinor</key>
   <integer>0</integer>
+  <key>versionMinor</key>
+  <integer>5</integer>
   <key>xHeight</key>
   <integer>480</integer>
 </dict>
