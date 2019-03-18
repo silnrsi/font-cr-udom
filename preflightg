@@ -9,6 +9,6 @@ echo "Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters source/Cr-*.designspace -p scrlevel=V   -l source/logs
 
 echo "Converting .glyphs to UFO3..."
-psfglyphs2ufo --nofea source/Cr-*.glyphs source -p scrlevel=V -l source/logs 
+psfglyphs2ufo --nofea source/Cr-*.glyphs source/masters -p scrlevel=V -l source/logs 
 
 echo "preflight completed!"
