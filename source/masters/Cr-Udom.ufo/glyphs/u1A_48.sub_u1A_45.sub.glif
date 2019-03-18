@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u1A48.sub_u1A45.sub" format="1">
+<glyph name="u1A48.sub_u1A45.sub" format="2">
   <advance width="1"/>
+  <anchor x="-256" y="-446" name="LD"/>
+  <anchor x="-46" y="-434" name="LRD"/>
+  <anchor x="-273" y="-2" name="_L"/>
   <outline>
     <contour>
       <point x="-396" y="-350" type="curve" smooth="yes"/>
@@ -192,15 +195,6 @@
       <point x="-399" y="-187" type="curve" smooth="yes"/>
       <point x="-387" y="-187"/>
       <point x="-381" y="-193"/>
-    </contour>
-    <contour>
-      <point x="-256" y="-446" type="move" name="LD"/>
-    </contour>
-    <contour>
-      <point x="-46" y="-434" type="move" name="LRD"/>
-    </contour>
-    <contour>
-      <point x="-273" y="-2" type="move" name="_L"/>
     </contour>
   </outline>
 </glyph>

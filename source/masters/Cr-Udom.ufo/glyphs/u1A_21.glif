@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u1A21" format="1">
+<glyph name="u1A21" format="2">
   <advance width="545"/>
   <unicode hex="1A21"/>
+  <anchor x="229.5" y="0" name="L"/>
+  <anchor x="476" y="-61" name="LR"/>
+  <anchor x="236.5" y="416" name="U"/>
+  <anchor x="455" y="416" name="UR"/>
   <outline>
     <contour>
       <point x="204" y="105" type="curve" smooth="yes"/>
@@ -202,18 +206,6 @@
       <point x="109" y="268" type="curve" smooth="yes"/>
       <point x="105" y="266"/>
       <point x="103" y="262"/>
-    </contour>
-    <contour>
-      <point x="229.5" y="0" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="476" y="-61" type="move" name="LR"/>
-    </contour>
-    <contour>
-      <point x="236.5" y="416" type="move" name="U"/>
-    </contour>
-    <contour>
-      <point x="455" y="416" type="move" name="UR"/>
     </contour>
   </outline>
 </glyph>

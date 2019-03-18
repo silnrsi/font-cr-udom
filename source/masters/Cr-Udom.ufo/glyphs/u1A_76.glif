@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u1A76" format="1">
+<glyph name="u1A76" format="2">
   <advance width="0"/>
   <unicode hex="1A76"/>
+  <anchor x="-208.5" y="562" name="UD"/>
+  <anchor x="-208.5" y="416" name="_U"/>
+  <anchor x="-208.5" y="416" name="_UD"/>
   <outline>
     <contour>
       <point x="12" y="551" type="line" smooth="yes"/>
@@ -9,15 +12,6 @@
       <point x="-237" y="429" type="line" smooth="yes"/>
       <point x="-265" y="447" type="line" smooth="yes"/>
       <point x="-237" y="397" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-208.5" y="562" type="move" name="UD"/>
-    </contour>
-    <contour>
-      <point x="-208.5" y="416" type="move" name="_U"/>
-    </contour>
-    <contour>
-      <point x="-208.5" y="416" type="move" name="_UD"/>
     </contour>
   </outline>
 </glyph>

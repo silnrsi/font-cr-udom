@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u1A76.high" format="1">
+<glyph name="u1A76.high" format="2">
   <advance width="0"/>
+  <anchor x="-158" y="548" name="_UD"/>
   <outline>
     <contour>
       <point x="-13" y="658" type="line" smooth="yes"/>
@@ -8,9 +9,6 @@
       <point x="-202" y="588" type="line" smooth="yes"/>
       <point x="-230" y="606" type="line" smooth="yes"/>
       <point x="-202" y="556" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-158" y="548" type="move" name="_UD"/>
     </contour>
   </outline>
 </glyph>

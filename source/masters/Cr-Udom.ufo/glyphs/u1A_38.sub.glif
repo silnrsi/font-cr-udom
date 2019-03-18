@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u1A38.sub" format="1">
+<glyph name="u1A38.sub" format="2">
   <advance width="188"/>
+  <anchor x="-137.5" y="-218" name="LD"/>
+  <anchor x="105" y="-216" name="LRD"/>
+  <anchor x="82" y="406" name="URD"/>
+  <anchor x="1" y="0" name="_LR"/>
   <outline>
     <contour>
       <point x="-323" y="-77" type="curve" smooth="yes"/>
@@ -111,18 +115,6 @@
       <point x="-339" y="-184" type="curve" smooth="yes"/>
       <point x="-360" y="-162"/>
       <point x="-373" y="-137"/>
-    </contour>
-    <contour>
-      <point x="-137.5" y="-218" type="move" name="LD"/>
-    </contour>
-    <contour>
-      <point x="105" y="-216" type="move" name="LRD"/>
-    </contour>
-    <contour>
-      <point x="82" y="406" type="move" name="URD"/>
-    </contour>
-    <contour>
-      <point x="1" y="0" type="move" name="_LR"/>
     </contour>
   </outline>
 </glyph>

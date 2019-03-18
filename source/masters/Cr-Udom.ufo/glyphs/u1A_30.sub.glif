@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u1A30.sub" format="1">
+<glyph name="u1A30.sub" format="2">
   <advance width="162"/>
+  <anchor x="-158" y="-300" name="LD"/>
+  <anchor x="97" y="-287" name="LRD"/>
+  <anchor x="59" y="409" name="URD"/>
+  <anchor x="-39" y="0" name="_LR"/>
   <outline>
     <contour>
       <point x="93" y="-176" type="line" smooth="yes"/>
@@ -200,18 +204,6 @@
       <point x="-394" y="-109" type="line" smooth="yes"/>
       <point x="-402" y="-109"/>
       <point x="-407" y="-112"/>
-    </contour>
-    <contour>
-      <point x="-158" y="-300" type="move" name="LD"/>
-    </contour>
-    <contour>
-      <point x="97" y="-287" type="move" name="LRD"/>
-    </contour>
-    <contour>
-      <point x="59" y="409" type="move" name="URD"/>
-    </contour>
-    <contour>
-      <point x="-39" y="0" type="move" name="_LR"/>
     </contour>
   </outline>
 </glyph>
